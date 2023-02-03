@@ -18,10 +18,7 @@ h2{
   font-weight: bold;
   font-size: 1.25em;
 }
-.logo{
-  width: 30px;
-  margin-right: 0.5em;
-}
+
 
 nav{
   padding: 1.5em 2em;
@@ -125,10 +122,6 @@ button{
 
   nav{
     height: 6em;
-  }
-
-  .logo{
-    width: 50px;
   }
 
   .meme--text{
