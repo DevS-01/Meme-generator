@@ -6,7 +6,7 @@ function App() {
   {
     return(
       <nav>
-        <img src='./src/troll.png'  className="logo"/>
+        <img src='troll.png'  className="logo"/>
         <h2>MemeGenerator</h2>
       </nav>
     )
